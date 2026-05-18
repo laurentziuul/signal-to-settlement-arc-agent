@@ -1,0 +1,26 @@
+[
+  {
+    "id": "S1",
+    "source": "X",
+    "title": "Iran escalation may push oil above $100",
+    "category": "macro",
+    "urgency": "high",
+    "text": "Geopolitical escalation increases probability of oil spike, inflation pressure, and risk-off positioning."
+  },
+  {
+    "id": "S2",
+    "source": "Prediction Market",
+    "title": "Prediction markets activity outperforming DeFi sectors",
+    "category": "crypto",
+    "urgency": "medium",
+    "text": "Prediction markets are one of the few crypto sectors showing positive activity growth while other DeFi categories decline."
+  },
+  {
+    "id": "S3",
+    "source": "Funding Market",
+    "title": "Negative funding across risk assets",
+    "category": "market_structure",
+    "urgency": "medium",
+    "text": "Short positioning is increasing while liquidity remains thin. Potential for reflexive squeeze if spot buyers appear."
+  }
+]

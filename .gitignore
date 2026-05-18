@@ -1,0 +1,27 @@
+# Dependencies
+node_modules/
+
+# Environment secrets - never commit
+.env
+.env.*
+!.env.example
+.env.local
+.env.production
+
+# Wallet files - contain private keys
+data/wallets.json
+data/wallets_backup.json
+wallets.json
+
+# Local artifacts
+reports/
+*.log
+*.db
+data/*.db
+
+# TypeScript build output
+dist/
+
+# OS artifacts
+.DS_Store
+Thumbs.db

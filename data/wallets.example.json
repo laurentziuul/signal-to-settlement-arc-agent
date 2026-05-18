@@ -1,0 +1,37 @@
+[
+  {
+    "id": "wallet-example-treasury",
+    "role": "treasury",
+    "address": "0xYourTreasuryAddressHere",
+    "privateKey": "0xYOUR_PRIVATE_KEY_HERE_NEVER_COMMIT_REAL_KEYS",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "wallet-example-agent",
+    "role": "agent",
+    "address": "0xYourAgentAddressHere",
+    "privateKey": "0xYOUR_PRIVATE_KEY_HERE_NEVER_COMMIT_REAL_KEYS",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "wallet-example-merchant",
+    "role": "merchant",
+    "address": "0xYourMerchantAddressHere",
+    "privateKey": "0xYOUR_PRIVATE_KEY_HERE_NEVER_COMMIT_REAL_KEYS",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "wallet-example-user",
+    "role": "user",
+    "address": "0xYourUserAddressHere",
+    "privateKey": "0xYOUR_PRIVATE_KEY_HERE_NEVER_COMMIT_REAL_KEYS",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  },
+  {
+    "id": "wallet-example-auditor",
+    "role": "auditor",
+    "address": "0xYourAuditorAddressHere",
+    "privateKey": "0xYOUR_PRIVATE_KEY_HERE_NEVER_COMMIT_REAL_KEYS",
+    "createdAt": "2025-01-01T00:00:00.000Z"
+  }
+]

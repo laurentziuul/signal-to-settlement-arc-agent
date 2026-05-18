@@ -1,0 +1,26 @@
+[
+  {
+    "id": "RO1",
+    "source": "macro-desk",
+    "title": "Geopolitical escalation drives oil above $95 — systemic risk rising",
+    "category": "macro",
+    "urgency": "high",
+    "text": "Iran-linked geopolitical tensions intensifying. Oil prices approaching $100 threshold. Structural inflation risk re-emerging across commodity markets. Risk assets under pressure."
+  },
+  {
+    "id": "RO2",
+    "source": "risk-monitor",
+    "title": "Institutional deleveraging accelerates on Iran oil shock",
+    "category": "macro",
+    "urgency": "high",
+    "text": "Geopolitical uncertainty triggering broad risk-off rotation. Iran sanctions escalation driving oil volatility. Capital flight from risk assets accelerating. Inflation expectations rising."
+  },
+  {
+    "id": "RO3",
+    "source": "macro-desk",
+    "title": "Oil and geopolitical convergence signals sustained risk-off regime",
+    "category": "macro",
+    "urgency": "high",
+    "text": "Confluence of oil supply disruption and geopolitical deterioration. Iran-driven inflation shock risk elevated. Structural risk-off environment developing across macro assets."
+  }
+]

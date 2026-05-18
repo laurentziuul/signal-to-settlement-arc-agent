@@ -1,0 +1,26 @@
+[
+  {
+    "id": "N1",
+    "source": "market-monitor",
+    "title": "Funding rates normalizing — market positioning cautious but stable",
+    "category": "market-structure",
+    "urgency": "low",
+    "text": "Funding rates across major venues returning to neutral. Market positioning shows no strong directional bias. Liquidity conditions broadly stable with modest two-way flow."
+  },
+  {
+    "id": "N2",
+    "source": "sector-analyst",
+    "title": "Prediction markets showing modest activity — no strong regime signal",
+    "category": "on-chain",
+    "urgency": "low",
+    "text": "Prediction market volumes stable with modest outperforming patterns in select niches. No dominant macro theme. Mixed signals across sectors with balanced risk-reward."
+  },
+  {
+    "id": "N3",
+    "source": "macro-desk",
+    "title": "Mixed macro data — indeterminate regime, balanced conditions",
+    "category": "macro",
+    "urgency": "low",
+    "text": "Economic data releases mixed. No dominant theme emerging. Market participants uncertain on direction. Conditions do not favour strong risk-on or risk-off positioning."
+  }
+]

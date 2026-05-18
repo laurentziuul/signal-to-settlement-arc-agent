@@ -1,0 +1,34 @@
+{
+  "name": "arc-macro-agent-lab",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test-arc": "tsx src/index.ts test",
+    "create-wallet": "tsx src/index.ts create-wallet",
+    "balances": "tsx src/index.ts balances",
+    "send": "tsx src/index.ts send",
+    "scenario:basic": "tsx src/index.ts scenario:basic",
+    "scenario:decision": "tsx src/decisionScenario.ts",
+    "demo:risk-off": "tsx src/decisionScenario.ts data/demo/signals-risk-off.json",
+    "demo:neutral": "tsx src/decisionScenario.ts data/demo/signals-neutral.json",
+    "demo:risk-on": "tsx src/decisionScenario.ts data/demo/signals-risk-on.json",
+    "typecheck": "tsc --noEmit"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "type": "commonjs",
+  "dependencies": {
+    "better-sqlite3": "^12.10.0",
+    "dotenv": "^17.4.2",
+    "ethers": "^6.16.0",
+    "tsx": "^4.21.0",
+    "typescript": "^6.0.3",
+    "zod": "^4.4.3"
+  },
+  "devDependencies": {
+    "@types/better-sqlite3": "^7.6.13",
+    "@types/node": "^25.7.0"
+  }
+}
